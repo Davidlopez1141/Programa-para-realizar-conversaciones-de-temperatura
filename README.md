@@ -1,2 +1,2 @@
-# Programa-para-realizar-conversaciones-de-temperatura
+# instrucciones condicionales 
 prgrama para realizar conversiones de temperatura 
